@@ -6,5 +6,5 @@ useage :
        # hadoop dfsadmin -safemode leave
        # hadoop jar HPTree.jar MSA_console properties
 
-where the properties if the parameter file contains the filename local_path dfs_path  reduce_number
+where the properties is the parameter file contains the filename local_path dfs_path  reduce_number
 
